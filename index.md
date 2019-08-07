@@ -1,7 +1,3 @@
-<video src="/视频展示.mp4" controls="controls">
- 
-your browser does not support the video tag
-</video>
 <table border="0">
   <tr>
     <td width="75%">
