@@ -35,7 +35,7 @@
 * **校内荣誉**
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：B类</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主办方:中国大学生计算机设计大赛组委会</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：“中国大学生计算机设计大赛（国赛）”二等奖</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：“中国大学生计算机设计大赛（国赛）”二等奖</div></br>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年08月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：A类</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主办方:广东省教育厅</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：第四届中国互联网+大学生创新创业大赛广东分赛铜将</div>
@@ -62,6 +62,6 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年09月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地点:中山大学南方学院</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务名称:未来架构团队技术总监</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务描述:VR电力系统项目创始人，管理团队，负责项目设计、分发任务、3D建模和贴图、项目开发和实现，撰写申报书、策划书、开发文档以及比赛等。</div>
-
+ 
 ### 项目经验
 ****
