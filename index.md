@@ -2,18 +2,18 @@
   <tr>
     <td width="75%">
       <h1>甘文棋</h1>
-        <p width="40%" align="left">
+        <div width="40%" align="left">
           <p><b>性别/身高：</b>男/168cm</p>  
           <p><b>民族/婚否：</b>汉/未婚</p>  
           <p><b>联系电话：</b>15622288218</p>  
           <p><b>毕业时间：2</b>2020年7月</p>  
-        </p>
-         <p width="30%" align="right">
+        </div>
+         <div width="30%" align="right">
           <p><b>性别/身高：</b>男/168cm</p>  
           <p><b>民族/婚否：</b>汉/未婚</p>  
           <p><b>联系电话：</b>15622288218</p>  
           <p><b>毕业时间：2</b>2020年7月</p>  
-        </p>
+        </div>
     </td>
     </br>
     <td width="75%">
