@@ -16,14 +16,14 @@
 
 ### 教育背景
 ****
-**学校：** 中山大学南方学院
+<b>学校：</b> <div>中山大学南方学院</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2020年07月</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学历:本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业:计算机科学与技术</div>
 <div>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业描述:数据结构与算法、线性代数、操作系统、概率论等。
 </div>
 
-<b>学校：</b> 广东水利电力职业技术学院
+<b>学校：</b> <div>广东水利电力职业技术学院</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2016年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2018年07月</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学历:专科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业:电子信息工程技术</div>
 <div>
