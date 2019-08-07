@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>甘文棋</h1>
-        <div width="40%" align="left">
+        <div width="30%" align="left">
           <p><b>性别/身高：</b>男/168cm</p>  
           <p><b>民族/婚否：</b>汉/未婚</p>  
           <p><b>联系电话：</b>15622288218</p>  
