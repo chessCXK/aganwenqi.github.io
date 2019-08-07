@@ -1,4 +1,4 @@
-<video src="https://github.com/aganwenqi/VRElectric/王者荣耀_batch.mp4" controls="controls">
+<video src="/视频展示.mp4" controls="controls">
  
 your browser does not support the video tag
 </video>
