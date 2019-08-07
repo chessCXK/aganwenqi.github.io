@@ -17,4 +17,10 @@
 ### 教育背景
 ****
 **学校：** 中山大学南方学院
-<p>&nbsp;&nbsp;&nbsp;&nbsp;入学时间:2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间:2020年07月</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;入学时间:2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间:2020年07月</p>
+<script language="JavaScript">
+for (var i=1; i<= 50; i++)
+{
+document.write ("& nbsp ;")
+}
+</script>
