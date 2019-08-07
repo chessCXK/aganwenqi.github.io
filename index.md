@@ -16,7 +16,7 @@
 
 ### 教育背景
 ****
-<b>学校：</b> <div>中山大学南方学院</div>
+<body><b>学校：</b>中山大学南方学院</body>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2020年07月</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学历:本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业:计算机科学与技术</div>
 <div>
@@ -29,3 +29,7 @@
 <div>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业描述:主修数字电路，西门子PLC，AT89C51单片机，STM系列嵌入式芯片等。
 </div>
+  
+### 在校情况
+****
+_ 校内荣誉
