@@ -57,5 +57,5 @@
 
 * **校内职务**
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年09月~2018年08月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地点:广东水利电力职业技术学院</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主办方:广东省科学技术协会</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：“2019粤港澳IT应用系统开发大赛广州赛区”三等奖</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务名称:未来架构团队技术总监</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务描述:负责项目设计、分发任务以及软件的开发，途中共同进行参与比赛。</div>
