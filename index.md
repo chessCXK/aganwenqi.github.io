@@ -9,7 +9,7 @@
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      
-      ![证件照](chesschess.png)
+      ![证件照](chesschess.jpg)
     </td>
   </tr>
 </table>
