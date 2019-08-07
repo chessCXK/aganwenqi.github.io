@@ -19,3 +19,4 @@
 **学校：** 中山大学南方学院
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2020年07月</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学历:本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业:计算机科学与技术</p>
+- 撒地方
