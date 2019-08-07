@@ -1,8 +1,5 @@
 <video src="https://github.com/aganwenqi/VRElectric/王者荣耀_batch.mp4" controls="controls">
  
- .[我啊](https://github.com/aganwenqi/VRElectric/王者荣耀_batch.mp4)
- 
- ![我啊](https://github.com/aganwenqi/VRElectric/王者荣耀_batch.mp4)
 your browser does not support the video tag
 </video>
 <table border="0">
