@@ -70,7 +70,7 @@
  
 .[所有项目链接](https://pan.baidu.com/s/1slfj1Pb)
 
-<div>&bull; 基于VR技术的电力仿真系统(Unity)</div>
+<div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年03月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：基本全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：团省委攀登计划省级项目(还在进行，只差最后一个模块还没完成)</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎开发，这是我做过工程最多最大的一个项目，分别进行实现水电站、火电站、风电站、变电站、太阳能发电站的内外场景以及设备，模拟电力系统发电的整个过程并进行VR教学。
