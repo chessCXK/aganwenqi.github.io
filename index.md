@@ -15,8 +15,8 @@
   </tr>
 </table>
 
-### 教育背景
-<HR align=center width=100% color=#0000 SIZE=1> 
+<h3>教育背景</h3>
+<HR align=center width=100%  SIZE=1> 
 <body><b>学校：</b>中山大学南方学院</body>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2020年07月</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学历：本科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业：计算机科学与技术</div>
@@ -32,8 +32,7 @@
 </div>
   
 <h3>在校情况</h3>
-**** 
-
+<HR align=center width=100%  SIZE=1> 
 * **校内荣誉**
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：B类</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主办方：中国大学生计算机设计大赛组委会</div>
