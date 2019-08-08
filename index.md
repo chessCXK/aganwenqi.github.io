@@ -32,7 +32,7 @@
 </div>
   
 ### 在校情况
-****
+**** 
 
 * **校内荣誉**
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：B类</div>
@@ -68,6 +68,8 @@
  
 <h3>项目经验</h3>
 **** 
+
+* **校内荣誉**
  .[所有项目链接](https://pan.baidu.com/s/1slfj1Pb)
 
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
