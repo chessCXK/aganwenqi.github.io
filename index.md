@@ -119,5 +119,19 @@
 
  ---   
  
- <div>&nbsp;&nbsp;&nbsp;&loz;扎实的C++面向对象编程基础（斗地主、Any变量体现）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;扎实的C++面向对象编程基础（斗地主、Any变量体现）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;拥有Java、Cocos2dx3.0基础底工（曾联手制作过斗地主）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;了解C++STL常用算法、C++简单泛型，C++11新特征 (写过Boost库any类型及Object类结合的类Any)<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;理解常见的C++编写的数据结构及算法（看过一些算法及书籍，如：C++数据结构及算法以及C语言编写的）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;了解SQL Server数据库、熟悉Socket网络编程  (在斗地主游戏项目里用到过，还有用Unity做的demo也用过)<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;熟悉C#语言、Unity3D（哼）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;熟悉基于HTC VIVE VR的开发，熟悉VuforiaAR的开发（做过各种项目）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;熟练使用LeanTouch、NGUI插件常用的脚本使用<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;有移植IOS的经验<div/>
+  
+ <h3>个人评价</h3> 
+
+ ---   
  
+ <div>本人：</div>
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;1、勤奋好学，理由是上述所有技能都是自学，直到现在在学习图形学。</div>
