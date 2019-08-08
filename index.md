@@ -72,16 +72,15 @@
 **** 
  .[所有项目链接](https://pan.baidu.com/s/1slfj1Pb)
 
-
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年03月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：基本全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：团省委攀登计划省级项目(还在进行，只差最后一个模块还没完成)</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎开发，这是我做过工程最多最大的一个项目，分别进行实现水电站、火电站、风电站、变电站、太阳能发电站的内外场景以及设备，模拟电力系统发电的整个过程并进行VR教学。
 </div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:01</div></br>
 
-<div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年03月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：基本全权</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：团省委攀登计划省级项目(还在进行，只差最后一个模块还没完成)</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎开发，这是我做过工程最多最大的一个项目，分别进行实现水电站、火电站、风电站、变电站、太阳能发电站的内外场景以及设备，模拟电力系统发电的整个过程并进行VR教学。
-</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:01</br></div>
+<div>&bull; <b>斗地主 (单机加联机) (C++语言)</b></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年01月~2017年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：提升自我综合能力</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:这是一款自主研发的联机斗地主，具备网络斗地主基本的功能。采用Cocos2dx开发的客户端，JAVA开发的服务端，SQLSERVER2012储存用户数据库，游戏是分段时间完成的，具有三个阶段：DOS版单机斗地主、界面版单机斗地主、网络版斗地主。
+</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:02</br></div>
  
