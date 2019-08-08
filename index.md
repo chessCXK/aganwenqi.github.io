@@ -58,13 +58,6 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：“2019粤港澳IT应用系统开发大赛广州赛区”三等奖</div>
 </br>
 
-* **校内职务**
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年09月~2018年08月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地点：广东水利电力职业技术学院</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务名称：未来架构团队技术总监</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务描述：负责项目设计、分发任务以及软件的开发，途中共同进行参与比赛。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年09月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地点：中山大学南方学院</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务名称：未来架构团队技术总监</div>
-<body>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务描述：VR电力系统项目创始人，管理团队，负责项目设计、分发任务、3D建模和贴图、项目开发和实现，撰写申报书、策划书、开发文档以及比赛等。</body> 
  
 <h3>项目经验</h3>
 **** 
