@@ -79,7 +79,7 @@
 </div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:01</div></br>
 
 <div>&bull; <b>斗地主 (单机加联机) (C++语言)</b></div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年01月~2017年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年01月~2017年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：提升自我综合能力</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:这是一款自主研发的联机斗地主，具备网络斗地主基本的功能。采用Cocos2dx开发的客户端，JAVA开发的服务端，SQLSERVER2012储存用户数据库，游戏是分段时间完成的，具有三个阶段：DOS版单机斗地主、界面版单机斗地主、网络版斗地主。
 </div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:02</br></div>
