@@ -88,4 +88,28 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：获得很多奖项</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2017.2引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要应用于电气培训教学。</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:03</br></div>
+
+<div>&bull; <b>基于AR技术的录取通知书(Unity)</b></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年04月~2018年05月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：“南方医科大学AR录取通知书”、“广东水利电力职业技术学院AR录取通知书”。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2017.4.0引擎及Vuforia、LeanTouch、NGUI、AVPro等插件开发，运行于Android及Ios平台，应用于新生录取通知书。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:04</br></div>
+
+<div>&bull; <b>基于VR技术的校园欺凌(Unity)</b></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年01月~2019年02月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：惠州市政府进行定制的项目</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要是仿真校园欺凌的场景进行正确教学引导。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:05</br></div>
  
+ <div>&bull; <b>基于VR技术的胃插管(Unity)</b></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年10月~2018年11月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：南方医科大学一位副教授老师定制</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要是仿真校园欺凌的场景进行正确教学引导。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:06</br></div>
+
+ <div>&bull; <b>Any变量 (C++语言)</b></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年11月~2017年11月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：进一步锻炼C++编程能力</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用C++所写，其中运用到了C++11、14特性，如：智能指针，返回类型auto推导decltype等。。此源码有自制Any类型及自封装的AnyMap类，Any模仿boost库any及Object类结合所写，可以做到左右值随便赋值。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <ahref="http://blog.csdn.net/qq_33700123/article/details/79418469">解说及源码下载链接</a>
+</div>
