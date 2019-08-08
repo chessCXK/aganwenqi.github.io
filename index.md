@@ -32,8 +32,8 @@
 </div>
   
 <h3>在校情况</h3>
-<HR align=center width=100%  SIZE=1> 
-**校内荣誉**
+**** 
+* __校内荣誉__
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：B类</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主办方：中国大学生计算机设计大赛组委会</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;奖项：“中国大学生计算机设计大赛（国赛）”二等奖</div>
