@@ -32,7 +32,9 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业描述：主修数字电路，西门子PLC，AT89C51单片机，STM系列嵌入式芯片等。
 </div> 
 <h3>在校情况</h3>
----    
+  
+ ---    
+
 *  __校内荣誉__  
 
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;级别：B类</div>
