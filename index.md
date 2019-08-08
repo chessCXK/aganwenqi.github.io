@@ -114,3 +114,10 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="http://blog.csdn.net/qq_33700123/article/details/79418469">解说及源码下载链接</a>
 </div>
+
+<h3>技术总结</h3> 
+
+ ---   
+ 
+ <div>&nbsp;&nbsp;&nbsp;&loz;扎实的C++面向对象编程基础（斗地主、Any变量体现）<div/>
+ 
