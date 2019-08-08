@@ -69,43 +69,43 @@
  
 <h3>项目经验</h3>
 
-**** 
+ ---   
 
 <a href="https://pan.baidu.com/s/1slfj1Pb">所有项目链接</a>
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年03月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：基本全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：团省委攀登计划省级项目(还在进行，只差最后一个模块还没完成)</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎开发，这是我做过工程最多最大的一个项目，分别进行实现水电站、火电站、风电站、变电站、太阳能发电站的内外场景以及设备，模拟电力系统发电的整个过程并进行VR教学。</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:01</div></br>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎开发，这是我做过工程最多最大的一个项目，分别进行实现水电站、火电站、风电站、变电站、太阳能发电站的内外场景以及设备，模拟电力系统发电的整个过程并进行VR教学。</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:01</div> </br> 
 
 <div>&bull; <b>斗地主 (单机加联机) (C++语言)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年01月~2017年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：提升自我综合能力</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:这是一款自主研发的联机斗地主，具备网络斗地主基本的功能。采用Cocos2dx开发的客户端，JAVA开发的服务端，SQLSERVER2012储存用户数据库，游戏是分段时间完成的，具有三个阶段：DOS版单机斗地主、界面版单机斗地主、网络版斗地主。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:02</br></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:02</br></div> </br> 
 
 <div>&bull; <b>基于VR技术的跌落式熔断器操作仿真试验(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年03月~2018年04月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：获得很多奖项</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2017.2引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要应用于电气培训教学。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:03</br></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:03</br></div> </br> 
 
 <div>&bull; <b>基于AR技术的录取通知书(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年04月~2018年05月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：“南方医科大学AR录取通知书”、“广东水利电力职业技术学院AR录取通知书”。</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2017.4.0引擎及Vuforia、LeanTouch、NGUI、AVPro等插件开发，运行于Android及Ios平台，应用于新生录取通知书。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:04</br></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:04</br></div> </br> 
 
 <div>&bull; <b>基于VR技术的校园欺凌(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年01月~2019年02月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：惠州市政府进行定制的项目</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要是仿真校园欺凌的场景进行正确教学引导。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:05</br></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:05</br></div> </br> 
  
  <div>&bull; <b>基于VR技术的胃插管(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2018年10月~2018年11月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：项目开发</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：南方医科大学一位副教授老师定制</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目描述:使用Unity2018.2.5引擎及SteamVR、VRTK等插件、工具开发，运行于HTC VIVE平台，主要是仿真校园欺凌的场景进行正确教学引导。</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:06</br></div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目展示前缀编号:06</br></div> </br> 
 
  <div>&bull; <b>Any变量 (C++语言)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2017年11月~2017年11月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：全权</div>
