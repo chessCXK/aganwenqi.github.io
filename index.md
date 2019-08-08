@@ -15,7 +15,8 @@
   </tr>
 </table>
 
-<h3>教育背景</h3>
+<h3>教育背景</h3> 
+
  ---   
 <body><b>学校：</b>中山大学南方学院</body>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入学时间：2018年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毕业时间：2020年07月</div>
