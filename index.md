@@ -66,10 +66,8 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务名称：未来架构团队技术总监</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职务描述：VR电力系统项目创始人，管理团队，负责项目设计、分发任务、3D建模和贴图、项目开发和实现，撰写申报书、策划书、开发文档以及比赛等。</div> 
  
- 
-<h2>项目经验</h2>
+<h3>项目经验</h3>
 ****
- 
 .[所有项目链接](https://pan.baidu.com/s/1slfj1Pb)
 
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
