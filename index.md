@@ -134,4 +134,4 @@
  ---   
  
  <div>本人：</div>
- <div>&nbsp;&nbsp;&nbsp;&nbsp;1、勤奋好学，理由是上述所有技能都是自学，直到现在在学习图形学。</div>
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、勤奋好学，理由是上述所有技能都是自学，直到现在在学习图形学。</div>
