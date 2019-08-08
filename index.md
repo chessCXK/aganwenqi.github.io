@@ -16,6 +16,8 @@
 </table>
 
 <h3>教育背景</h3>
+
+****
 <body>
 <HR align=center width=100% color=#987cb9 SIZE=1> 
   </body>
