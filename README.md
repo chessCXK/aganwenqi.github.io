@@ -164,18 +164,18 @@
   <h2>VR电动机拆解(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/VR motor/01.png" width="100%">      
+      <img src="/VR_motor/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR motor/02.png" width="100%">      
+      <img src="/VR_motor/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/VR motor/03.png" width="100%">      
+      <img src="/VR_motor/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR motor/04.png" width="100%">      
+      <img src="/VR_motor/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
