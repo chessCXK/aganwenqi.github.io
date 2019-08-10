@@ -7,6 +7,8 @@
     <td width="50%">
       <img src="/VR电力系统/02.png" width="100%">      
     </td></br>
+  </tr>
+  <tr>
     <td width="50%">
       <img src="/VR电力系统/03.png" width="100%">      
     </td>
