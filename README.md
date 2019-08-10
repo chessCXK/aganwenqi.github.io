@@ -16,8 +16,8 @@
       <img src="/VR电力系统/04.png" width="100%">      
     </td>
   </tr>
+  <h2>网络斗地主</h2> 
   <tr>
-    <h2>网络斗地主</h2> 
     <td width="50%">    
       <img src="/网络斗地主/01.png" width="100%">      
     </td>
