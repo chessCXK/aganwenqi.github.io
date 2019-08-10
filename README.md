@@ -42,7 +42,7 @@
 <table border="0">   
   <h2>VR跌落式熔断器(Unity)</h2> 
   <tr>
-    <td width="50%">    
+    <td width="100%">    
       <img src="/跌落式熔断器/01.png" width="100%">      
     </td>
     <td width="50%">
