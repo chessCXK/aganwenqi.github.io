@@ -17,7 +17,7 @@
       <img src="/VR电力系统/04.png" width="100%">      
     </td>
   </tr>
-</table>
+</table></br>
 
 <table border="0">   
   <h2>网络斗地主</h2> 
@@ -37,4 +37,4 @@
       <img src="/网络斗地主/04.png" width="100%">      
     </td>
   </tr>
-</table>
+</table></br>
