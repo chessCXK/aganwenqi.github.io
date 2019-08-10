@@ -43,18 +43,18 @@
   <h2>VR跌落式熔断器(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/跌落式熔断器/01.png" width="100%">      
+      <img src="/drop-out fuse/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/跌落式熔断器/02.png" width="100%">      
+      <img src="/drop-out fuse/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/跌落式熔断器/03.png" width="100%">      
+      <img src="/drop-out fuse/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/跌落式熔断器/04.png" width="100%">      
+      <img src="/drop-out fuse/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
