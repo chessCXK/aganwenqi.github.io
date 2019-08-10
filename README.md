@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="/跌落式熔断器/03.png" width="100%">      
+      <img src="/VR电力系统/03.png" width="100%">      
     </td>
     <td width="50%">
       <img src="/VR电力系统/04.png" width="100%">      
