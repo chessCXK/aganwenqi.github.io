@@ -144,18 +144,18 @@
   <h2>VR仿真电路截图(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/VR artificial circuit/01.png" width="100%">      
+      <img src="/VR_artificial/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR artificial circuit/02.png" width="100%">      
+      <img src="/VR_artificial/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/VR artificial circuit/03.png" width="100%">      
+      <img src="/VR_artificial/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR artificial circuit/04.png" width="100%">      
+      <img src="/VR_artificial/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
