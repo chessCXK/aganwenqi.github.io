@@ -73,7 +73,7 @@
 
  ---   
 
-<a href="https://pan.baidu.com/s/1slfj1Pb">所有项目视频链接</a>
+<a href="https://pan.baidu.com/s/1slfj1Pb">所有项目视频链接</a></br>
 <a href="https://github.com/aganwenqi/aganwenqi.github.io/blob/master/README.md">所有项目截图</a>
 
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
