@@ -3,18 +3,18 @@
   <h2>VR电力仿真系统(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/VR电力系统/01.png" width="100%">      
+      <img src="/VR elect system/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR电力系统/02.png" width="100%">      
+      <img src="/VR elect system/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/VR电力系统/03.png" width="100%">      
+      <img src="/VR elect system/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR电力系统/04.png" width="100%">      
+      <img src="/VR elect system/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
@@ -63,18 +63,18 @@
   <h2>AR录取通知书(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/AR录取通知书/01.png" width="100%">      
+      <img src="/AR admission letter/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/AR录取通知书/02.png" width="100%">      
+      <img src="/AR admission letter/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/AR录取通知书/03.png" width="100%">      
+      <img src="/AR admission letter/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/AR录取通知书/04.png" width="100%">      
+      <img src="/AR admission letter/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
@@ -83,18 +83,18 @@
   <h2>VR技术的校园欺凌(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/VR校园欺凌/01.png" width="100%">      
+      <img src="/VR school bullying/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR校园欺凌/02.png" width="100%">      
+      <img src="/VR school bullying/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/VR校园欺凌/03.png" width="100%">      
+      <img src="/VR school bullying/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR校园欺凌/04.png" width="100%">      
+      <img src="/VR school bullying/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
@@ -103,18 +103,18 @@
   <h2>AR胃插管(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/胃插管/01.png" width="100%">      
+      <img src="/AR Gastric intubation/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/胃插管/02.png" width="100%">      
+      <img src="/AR Gastric intubation/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/胃插管/03.png" width="100%">      
+      <img src="/AR Gastric intubation/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/胃插管/04.png" width="100%">      
+      <img src="/AR Gastric intubation/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
@@ -145,18 +145,18 @@
   <h2>VR仿真电路截图(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/仿真电路截图/01.png" width="100%">      
+      <img src="/VR artificial circuit/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/仿真电路截图/02.png" width="100%">      
+      <img src="/VR artificial circuit/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/仿真电路截图/03.png" width="100%">      
+      <img src="/VR artificial circuit/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/仿真电路截图/04.png" width="100%">      
+      <img src="/VR artificial circuit/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
