@@ -73,7 +73,9 @@
 
  ---   
 
-<a href="https://pan.baidu.com/s/1slfj1Pb">所有项目链接</a>
+<a href="https://pan.baidu.com/s/1slfj1Pb">所有项目视频链接</a></br>
+<a href="https://github.com/aganwenqi/aganwenqi.github.io/blob/master/README.md">所有项目截图</a>
+
 <div>&bull; <b>基于VR技术的电力仿真系统(Unity)</b></div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年03月~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目职责：基本全权</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目业绩：团省委攀登计划省级项目(还在进行，只差最后一个模块还没完成)</div>

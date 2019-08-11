@@ -62,18 +62,18 @@
   <h2>AR录取通知书(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/AR Gastric intubation/01.png" width="100%">      
+      <img src="/AR admission letter/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/AR Gastric intubation/02.png" width="100%">      
+      <img src="/AR admission letter/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/AR Gastric intubation/03.png" width="100%">      
+      <img src="/AR admission letter/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/AR Gastric intubation/04.png" width="100%">      
+      <img src="/AR admission letter/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
@@ -144,18 +144,18 @@
   <h2>VR仿真电路截图(Unity)</h2> 
   <tr>
     <td width="50%">    
-      <img src="/VR artificial circuit/01.png" width="100%">      
+      <img src="/VR_artificial/01.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR artificial circuit/02.png" width="100%">      
+      <img src="/VR_artificial/02.png" width="100%">      
     </td></br>
   </tr>
   <tr>
     <td width="50%">
-      <img src="/VR artificial circuit/03.png" width="100%">      
+      <img src="/VR_artificial/03.png" width="100%">      
     </td>
     <td width="50%">
-      <img src="/VR artificial circuit/04.png" width="100%">      
+      <img src="/VR_artificial/04.png" width="100%">      
     </td>
   </tr>
 </table></br>
