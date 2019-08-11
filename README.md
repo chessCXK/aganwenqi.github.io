@@ -141,7 +141,7 @@
 </table></br>
 
 <table border="0">   
-  <h2>VR仿真电路截图(Unity)</h2> 
+  <h2>VR仿真电路(Unity)</h2> 
   <tr>
     <td width="50%">    
       <img src="/VR_artificial/01.png" width="100%">      
