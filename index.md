@@ -128,9 +128,8 @@
 <div>&nbsp;&nbsp;&nbsp;&loz;了解C++STL常用算法、C++简单泛型，C++11新特征 (写过Boost库any类型及Object类结合的类Any)<div/>
 <div>&nbsp;&nbsp;&nbsp;&loz;理解常见的C++编写的数据结构及算法（看过一些算法及书籍，如：C++数据结构及算法以及C语言编写的）<div/>
 <div>&nbsp;&nbsp;&nbsp;&loz;了解SQL Server数据库、熟悉Socket网络编程  (在斗地主游戏项目里用到过，还有用Unity做的demo也用过)<div/>
-<div>&nbsp;&nbsp;&nbsp;&loz;熟悉C#语言、Unity3D（哼）<div/>
+<div>&nbsp;&nbsp;&nbsp;&loz;熟悉C#语言、Unity3D（做了好几个项目，有一些是有应用的）<div/>
 <div>&nbsp;&nbsp;&nbsp;&loz;熟悉基于HTC VIVE VR的开发，熟悉VuforiaAR的开发（做过各种项目）<div/>
-<div>&nbsp;&nbsp;&nbsp;&loz;熟练使用LeanTouch、NGUI插件常用的脚本使用<div/>
 <div>&nbsp;&nbsp;&nbsp;&loz;有移植IOS的经验<div/>
   
  <h3>个人评价</h3> 
@@ -138,6 +137,6 @@
  ---   
  
  <div>本人：</div>
- <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、勤奋好学，理由是上述所有技能都是自学，直到现在在学习图形学。</div>
- <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、珍惜时间，每天都会安排时间，大多数时间花在做项目和学习当中。</div>
- <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、责任心强，以“基于VR技术的电力仿真系统项目”为例。项目是18年下半年在学校组建团队进行申报，最初分配完任务后，我主要是负责设计和开发，由于后续发现团队成员积极性不强项目基本原地不动，为了在预期完成项目，从下半年年尾我开始自学3D建模和贴图直至寒假完毕，并代替2位成员其工作，然而其他成员的积极性也是不强，只剩一个成员进行电力专业知识协助设计，至所有工作包括项目、比赛、写文档（申报书、开发文档、PPT等）全部自己完成，直到现在8月初只剩下最后一个模块了，我还在做，准备写论文中。。。</div>
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、1、	勤奋好学，我渴望掌握新的技能，除了做项目以及写文案之类的之外，平均每天有2个小时是在自学。</div>
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、2、	珍惜时间，我会把时间用在有利的地方，即使是在打游戏时，很多时候我都会在游戏在等待的时间学习或看书，或者做其他有意义的事情。</div>
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、3、	责任心强，从2017年末我加入了一个学院创业团队，担任技术负责人，并在1年时间做了很多项目，有高校的，也有其他客户的，都按时完成。直到18年下半年创业失败，期间在我名下还申请了高校科研项目，为此我并没有放弃或抛弃，直到目前我已经把此项目完成，也就是上面的VR电力系统。</div>
