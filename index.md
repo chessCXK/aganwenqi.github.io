@@ -8,7 +8,7 @@
       <p><b>联系电话：</b>***********  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<b>QQ/微信/邮箱：</b>1617746423</p>  
       <p><b>毕业时间：</b>2020年7月 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>现居住：</b>广州</p>  
       <p><b>学校专业：</b>中山大学南方学院｜计算机科学与技术｜本科</p> 
-      <p><b>期望职位：</b>游戏开发/引擎应用开发</p>  
+      <p><b>期望职位：</b>游戏开发/引擎研发</p>  
     </td>
     <td width="25%">
       <img src="/chesschess.jpg" width="100%">      
